@@ -1,2 +1,2 @@
-# BECKY-S-TECH-PROJECT2
+# BECKY'S-TECH-PROJECT2
 basic knowledge on html, css and java script
